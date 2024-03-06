@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="www.linkedin.com/in/timofey-pasyuta-b260b7267" target="_blank">Timofey</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/timofey-pasyuta-passy-tim" target="_blank">Timofey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, beginner .NET Backend Developer</h3>
 <hr>
