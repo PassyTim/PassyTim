@@ -4,9 +4,9 @@
 <hr>
 <br>
 <p align = "left">
-I am a first-year student at a Belorussian state University of informatics and radioelectronics<br>
+I am a first-year student at a Belorussian state University of informatics and radioelectronics with one year experience in C# development<br>
 <h2> Tech stack:</h2>
-  C#, .NET Core,  git,  github,  CSS,  HTML5,  JavaScript <br>
+  C#, .NET Core,  git,  CSS,  HTML5,  JavaScript <br>
 <br>
 📖 Knowledge of computer science, algorithms and data structures, web, infocommunications<br>
 🌏 English - B1, Polish - B1, Russian - native<br> 
